@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ichiro-Portfolio-React/static/css/main.b0109184.css",
+    "main.js": "/Ichiro-Portfolio-React/static/js/main.69e80853.js",
+    "static/js/453.c1239e67.chunk.js": "/Ichiro-Portfolio-React/static/js/453.c1239e67.chunk.js",
+    "index.html": "/Ichiro-Portfolio-React/index.html",
+    "main.b0109184.css.map": "/Ichiro-Portfolio-React/static/css/main.b0109184.css.map",
+    "main.69e80853.js.map": "/Ichiro-Portfolio-React/static/js/main.69e80853.js.map",
+    "453.c1239e67.chunk.js.map": "/Ichiro-Portfolio-React/static/js/453.c1239e67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0109184.css",
+    "static/js/main.69e80853.js"
+  ]
+}
